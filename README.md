@@ -1,1 +1,1 @@
-# Object-Oriented-Programming-Using-Java-LabManuval
+# Object-Oriented-Programming-Using-Java-LabManual
